@@ -1,2 +1,5 @@
-In this project I was trying to make the envirnment turn off the gravity control and watch the balls bounce around.
+1.In this project I was trying to make the envirnment turn off the gravity control and watch the balls bounce around.
 The balls were right next to each other and they were both blue. 
+
+2.In this one we just knock down a thin capsule and using Rigidbody can see the capsule flip over.
+The capsule is green and the cube is light blue.
